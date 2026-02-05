@@ -1,7 +1,9 @@
 {
-  "name": "uniswap-v2-subgraph",
+  "name": "@etcswap/v2-subgraph",
   "version": "1.0.0",
-  "repository": "https://github.com/graphprotocol/uniswap-v2-subgraph",
+  "description": "Subgraph for ETCswap V2 on Ethereum Classic",
+  "repository": "https://github.com/etcswap/v2-subgraph",
+  "homepage": "https://etcswap.org",
   "license": "GPL-3.0-or-later",
   "scripts": {
     "lint": "eslint . --ext .ts --fix",
