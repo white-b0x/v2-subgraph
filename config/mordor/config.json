@@ -1,5 +1,5 @@
 {
   "network": "mordor",
-  "factory": "TODO_DEPLOY_FACTORY_ADDRESS",
-  "startblock": "TODO_FACTORY_DEPLOY_BLOCK"
+  "factory": "0x212eE1B5c8C26ff5B2c4c14CD1C54486Fe23ce70",
+  "startblock": "12951522"
 }
